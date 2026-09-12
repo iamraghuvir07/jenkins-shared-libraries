@@ -1,3 +1,3 @@
-def calll(){
+def call(){
   echo "Hello Tiger"
 }
